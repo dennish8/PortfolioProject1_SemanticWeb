@@ -11,3 +11,10 @@ Setelah itu silakan validasi halaman web yang sudah kalian buat di https://valid
 
 Hilangkan semua error, warning masih bisa ditoleransi, tapi usahakan minimalisir sebaik mungkin.
 ```
+
+
+References:
+http://db2land.com.sg/
+http://www.hfm.adv.br/
+https://thecapvestgroup.com/
+
